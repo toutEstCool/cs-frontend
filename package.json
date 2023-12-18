@@ -1,7 +1,7 @@
 {
   "name": "cs-in-frontend",
   "version": "1.0.0",
-  "description": "Домашние задания из курса \"Computer Science во фронтенде\"",
+  "description": "Cs-frontend",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "Dmitry Lebedko"
+    "name": "Danil Panarin"
   },
   "license": "ISC",
   "devDependencies": {
